@@ -14,3 +14,8 @@ A simple Hand Cricket game built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## 📂 Project Structure
+hand-cricket/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
