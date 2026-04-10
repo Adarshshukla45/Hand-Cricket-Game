@@ -9,6 +9,7 @@ A simple Hand Cricket game built using HTML, CSS, and JavaScript.
 - Play against computer
 - Random number generation
 - Score tracking system
+- Wickets Concept
 - Simple and clean UI
 
 ## 🛠️ Tech Stack
